@@ -1,0 +1,76 @@
+h1 {
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+    font-size: 50px;
+   font-style: italic;
+   text-align: center;
+   padding:20px;
+   margin-top: 0px;
+  }
+img{
+  height:200px;
+  width:230px;
+  border-radius: 50%;
+  border:5px solid rgb(199, 234, 246)
+   }
+  body{
+      margin: 0px;
+      
+  }
+p,ul{
+  font-family: "Roboto",sans-serif;
+  font-weight: 200;
+  font-style: normal;
+  font-size: large;
+  margin-bottom: 0px;
+  padding-left: 30px;
+  padding-bottom: 20px;
+  list-style-type:none;
+}
+h2{
+    
+  font-family: "Dancing Script", cursive;
+  font-optical-sizing: auto;
+  font-weight: 700;
+    font-size:40px;
+   font-style: italic;
+   margin-top: 0px;
+   padding-top: 15px;
+   padding-left: 20px;
+
+}
+h3{
+  font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    font-style: italic;
+   
+}
+.container{
+  text-align:justify;
+  display: grid;
+}
+
+.center{
+  background-image:url(https://cdn.pixabay.com/photo/2021/08/18/19/18/background-6556379_640.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
+.education{
+  background-color: rgb(234, 248, 207);
+  margin: 0px;
+}
+.exp{
+  background-color: rgb(195, 249, 231);
+}
+.skills{
+  background-color:rgb(195, 235, 240);
+}
+.awards{
+  background-color: rgb(253, 253, 217);
+}
+.foot{
+  background-image:url(https://cdn.pixabay.com/photo/2021/08/18/19/18/background-6556379_640.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100%;
+}
